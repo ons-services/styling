@@ -13,7 +13,7 @@ Ready-to-use utility classes
 Download the CSS file you want from this repo.
 
 Link it in your project’s HTML :- 
-<link rel="stylesheet" href="path/to/theme-name.min.css">
+In head section of your project just add this :- https://cdn.jsdelivr.net/gh/ons-services/styling/theme_name.min.css , just like you add your stylesheet
 
 
 Enjoy your new look 🎉 :-
